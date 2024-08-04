@@ -1,0 +1,15 @@
+/Users/edwarddavey/Documents/Programming/Rider projects/temperature/temperature/bin/Debug/net7.0/temperature
+/Users/edwarddavey/Documents/Programming/Rider projects/temperature/temperature/bin/Debug/net7.0/temperature.deps.json
+/Users/edwarddavey/Documents/Programming/Rider projects/temperature/temperature/bin/Debug/net7.0/temperature.runtimeconfig.json
+/Users/edwarddavey/Documents/Programming/Rider projects/temperature/temperature/bin/Debug/net7.0/temperature.dll
+/Users/edwarddavey/Documents/Programming/Rider projects/temperature/temperature/bin/Debug/net7.0/temperature.pdb
+/Users/edwarddavey/Documents/Programming/Rider projects/temperature/temperature/obj/Debug/net7.0/temperature.csproj.AssemblyReference.cache
+/Users/edwarddavey/Documents/Programming/Rider projects/temperature/temperature/obj/Debug/net7.0/temperature.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edwarddavey/Documents/Programming/Rider projects/temperature/temperature/obj/Debug/net7.0/temperature.AssemblyInfoInputs.cache
+/Users/edwarddavey/Documents/Programming/Rider projects/temperature/temperature/obj/Debug/net7.0/temperature.AssemblyInfo.cs
+/Users/edwarddavey/Documents/Programming/Rider projects/temperature/temperature/obj/Debug/net7.0/temperature.csproj.CoreCompileInputs.cache
+/Users/edwarddavey/Documents/Programming/Rider projects/temperature/temperature/obj/Debug/net7.0/temperature.dll
+/Users/edwarddavey/Documents/Programming/Rider projects/temperature/temperature/obj/Debug/net7.0/refint/temperature.dll
+/Users/edwarddavey/Documents/Programming/Rider projects/temperature/temperature/obj/Debug/net7.0/temperature.pdb
+/Users/edwarddavey/Documents/Programming/Rider projects/temperature/temperature/obj/Debug/net7.0/temperature.genruntimeconfig.cache
+/Users/edwarddavey/Documents/Programming/Rider projects/temperature/temperature/obj/Debug/net7.0/ref/temperature.dll
